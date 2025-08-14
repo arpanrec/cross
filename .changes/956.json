@@ -1,5 +1,5 @@
 {
-  "description": "use Wine from Ubuntu 20.04 WineHQ repo",
+  "description": "use Wine from Ubuntu 24.04 WineHQ repo",
   "type": "changed",
   "breaking": false
 }

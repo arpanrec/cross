@@ -159,7 +159,7 @@ fake_java() {
         *)
             java_type=openjdk
             java_version=1.8.0_342
-            jre_info="build 1.8.0_342-8u342-b07-0ubuntu1~20.04-b07"
+            jre_info="build 1.8.0_342-8u342-b07-0ubuntu1~24.04-b07"
             build_info="build 25.342-b07, mixed mode"
             ;;
     esac

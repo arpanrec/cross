@@ -230,7 +230,7 @@ SCCACHE_LOG=trace SCCACHE_DIR=/path/to/sccache/cache \
 
 Redoxer support can be done by installing the necessary dependencies, Redoxer, and the Redoxer toolchain in a custom image. See [redoxer](https://github.com/cross-rs/wiki_assets/tree/main/Recipes/redoxer) for a working project using a custom Dockerfile.
 
-Please note that this requires a base Ubuntu version of 20.04, and therefore needs you to build the images with [newer Linux versions](https://github.com/cross-rs/cross/wiki/FAQ#newer-linux-versions).
+Please note that this requires a base Ubuntu version of 24.04, and therefore needs you to build the images with [newer Linux versions](https://github.com/cross-rs/cross/wiki/FAQ#newer-linux-versions).
 
 # vcpkg, Meson, and Conan
 
